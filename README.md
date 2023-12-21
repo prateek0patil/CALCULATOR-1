@@ -1,1 +1,1 @@
-# CODESOFT_SIMPLE-CALCULATOR
+A Simple Calculator using HTML, CSS and JavaScript
